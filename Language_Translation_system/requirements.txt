@@ -1,0 +1,7 @@
+transformers
+sentencepiece
+tokenizers
+accelerate
+safetensors
+evaluate
+sacrebleu
